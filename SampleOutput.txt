@@ -1,0 +1,76 @@
+
+C:\>java Teacher executer kaptankanca heyamola legolas darksavant
+
+Teacher : Round 1 is about to begin now.
+executer : I'm waiting for the music to start.
+kaptankanca : I'm waiting for the music to start.
+legolas : I'm waiting for the music to start.
+heyamola : I'm waiting for the music to start.
+darksavant : I'm waiting for the music to start.
+Teacher : I started the music right now!
+Teacher : I will keep playing music for a random amount of time...
+darksavant : I'm walking around the chairs.
+heyamola : I'm walking around the chairs.
+legolas : I'm walking around the chairs.
+kaptankanca : I'm walking around the chairs.
+executer : I'm walking around the chairs.
+Teacher : I stopped the music!
+kaptankanca : Phew, I got chair 2.
+heyamola : I couldn't sit. Sigh...
+legolas : Phew, I got chair 4.
+executer : Phew, I got chair 3.
+darksavant : Phew, I got chair 1.
+
+Teacher : I am removing one chair.
+Teacher : Round 2 is about to begin now.
+legolas : I'm waiting for the music to start.
+kaptankanca : I'm waiting for the music to start.
+darksavant : I'm waiting for the music to start.
+executer : I'm waiting for the music to start.
+Teacher : I started the music right now!
+executer : I'm walking around the chairs.
+Teacher : I will keep playing music for a random amount of time...
+darksavant : I'm walking around the chairs.
+kaptankanca : I'm walking around the chairs.
+legolas : I'm walking around the chairs.
+Teacher : I stopped the music!
+executer : Phew, I got chair 1.
+legolas : I couldn't sit. Sigh...
+kaptankanca : Phew, I got chair 3.
+darksavant : Phew, I got chair 2.
+
+Teacher : I am removing one chair.
+Teacher : Round 3 is about to begin now.
+kaptankanca : I'm waiting for the music to start.
+executer : I'm waiting for the music to start.
+darksavant : I'm waiting for the music to start.
+Teacher : I started the music right now!
+Teacher : I will keep playing music for a random amount of time...
+darksavant : I'm walking around the chairs.
+executer : I'm walking around the chairs.
+kaptankanca : I'm walking around the chairs.
+Teacher : I stopped the music!
+darksavant : Phew, I got chair 1.
+kaptankanca : I couldn't sit. Sigh...
+executer : Phew, I got chair 2.
+
+Teacher : I am removing one chair.
+Teacher : Round 4 is about to begin now.
+darksavant : I'm waiting for the music to start.
+executer : I'm waiting for the music to start.
+Teacher : I started the music right now!
+Teacher : I will keep playing music for a random amount of time...
+executer : I'm walking around the chairs.
+darksavant : I'm walking around the chairs.
+Teacher : I stopped the music!
+darksavant : I couldn't sit. Sigh...
+executer : Phew, I got chair 1.
+
+Teacher : Now tell me about your game experiences now.
+legolas : I lost the game in round 2! :(  I sat on chair 4.
+executer : I won  the game in round 4! :)  I sat on chairs 3, 1, 2, 1.
+darksavant : I lost the game in round 4! :(  I sat on chairs 1, 2, 1.
+kaptankanca : I lost the game in round 3! :(  I sat on chairs 2, 3.
+heyamola : I lost the game in round 1! :(  I never got any chairs.
+
+
